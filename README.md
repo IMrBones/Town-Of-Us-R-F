@@ -22,7 +22,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 | [Venerer](#venerer)          | [Medium](#medium)                  | [The Glitch](#the-glitch)        | [Multitasker](#multitasker)|
 | [Warlock](#warlock)          | [Mystic](#mystic)                  | [Vampire](#vampire)              | [Radar](#radar)             |
 |                             | [Oracle](#oracle)                  | [Werewolf](#werewolf)            | [Sleuth](#sleuth)           |
-|                             | [Prosecutor](#prosecutor)          |                                 | [Tiebreaker](#tiebreaker)   |
+|                             | [Prosecutor](#prosecutor)          | [Slimers](#slimers)             | [Tiebreaker](#tiebreaker)   |
 |                             | [Seer](#seer)                      |                                 | [Torch](#torch)             |
 |                             | [Sheriff](#sheriff)                |                                 | [Underdog](#underdog)       |
 |                             | [Snitch](#snitch)                  |                                 |                             |
