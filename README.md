@@ -1432,6 +1432,26 @@ The Werewolf needs to be the last killer alive to win the game.
 | Werewolf can Vent when Rampaged | Whether the Werewolf can Vent when Rampaged | Toggle | False |
 
 -----------------------
+
+## Slimers
+### **Team: Neutral**
+
+NOTE: Slimers is a TEST role and IS NOT SUPPOSED TO BE USED IN A GAME
+The Slimers is a Neutral role with its own win condition, as well as an ability to transform into another role.\
+The Slimers has one ability, which allows them to infect other players.\
+Once infected, the infected player can go and infect other players via interacting with them.\
+Once all players are infected, the Plaguebearer becomes Pestilence.\
+The Pestilence is a unkillable force which can only be killed by being voted out, even their lover dying won't kill them.\
+The Plaguebearer or Pestilence needs to be the last killer alive to win the game.
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Plaguebearer | The percentage probability of the Plaguebearer appearing | Percentage | 0% |
+| Infect Cooldown | The cooldown of the Plaguebearer's Infect button | Time | 25s |
+| Pestilence Kill Cooldown | The cooldown of the Pestilence's Kill button | Time | 25s |
+| Pestilence can Vent | Whether the Pestilence can Vent | Toggle | False |
+
+-----------------------
 # Impostor Roles
 ## Escapist
 ### **Team: Impostors**
