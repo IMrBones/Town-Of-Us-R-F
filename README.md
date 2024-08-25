@@ -3,7 +3,7 @@
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings
+An Among Us mod that will make you wanna play Farm Merge Valley.
 
 Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
 
