@@ -1,4 +1,4 @@
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+## *Note: This is only a fork of the ACTUAL Town Of Us R, it is only really made to be used by me and a bunch of people I know, feel free to use it, but please dont reach out to me if you encounter issues, unless I know you, in which case just reach out to me on discord.*
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
